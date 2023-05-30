@@ -1,2 +1,11 @@
+# Node.js ignore template
 node_modules
 dist
+
+# MacOSX ignore template
+.DS_Store
+
+# VSCode ignore template
+.vscode
+
+
